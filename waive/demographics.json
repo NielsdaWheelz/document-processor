@@ -1,0 +1,16 @@
+{
+  "patient_name": "Peter Julius Fern",
+  "dob": "1960-04-15",
+  "patient_number": "XXX34-6565-890",
+  "health_card_number": "9696178816",
+  "phone_home": "613-6565-890",
+  "phone_mobile": "647-666-8888",
+  "email": "peter.fern@email.com",
+  "address": {
+    "street": "45 Maple Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postal_code": "K7L 3V8",
+    "country": "Canada"
+  }
+}
